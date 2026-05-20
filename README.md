@@ -3,8 +3,6 @@ wJedes Repository braucht eine README.md im Root mit folgenden Abschnitten:
 # Projekttitel
 
 ## Kurzbeschreibung
-<<<<<<< HEAD
-Dieses Projekt wurde lokal und online bearbeitet.
 Der Merge Conflict wurde gelöst.
 
 ## Zielplattform
