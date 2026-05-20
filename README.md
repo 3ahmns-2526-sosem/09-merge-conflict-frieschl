@@ -1,36 +1,15 @@
-# 09-helloGH-freischl
-# Hello World – Unser erstes GitHub-Projekt
+Jedes Repository braucht eine README.md im Root mit folgenden Abschnitten:
 
-## Beschreibung
-Dieses Repository enthält unser erstes Hello-World-Projekt. Ziel ist es, den grundlegenden Workflow von Git und GitHub kennenzulernen und praktisch anzuwenden.
+# Projekttitel
 
-## Ziel des Projekts
-- Einführung in Versionskontrolle mit Git  
-- Arbeiten mit einem GitHub-Repository  
-- Verstehen des typischen Workflows:
-  - Repository erstellen  
-  - Dateien hinzufügen und ändern  
-  - Commits erstellen  
-  - Änderungen pushen  
-  - Optional: Branches und Pull Requests nutzen  
+## Kurzbeschreibung
 
-## Inhalt
-Das Projekt besteht aus einem einfachen Hello-World-Programm, das als Grundlage dient, um Änderungen nachzuverfolgen und den Umgang mit Git zu üben.
+## Zielplattform
 
-## Verwendete Tools
-- Git  
-- GitHub  
+## Screenshot
+Der Screenshot muss unter folgendem Pfad liegen:
 
-## Workflow (kurz erklärt)
-1. Repository klonen  
-2. Datei erstellen oder bearbeiten  
-3. Änderungen mit `git add` hinzufügen  
-4. Commit mit `git commit` erstellen  
-5. Änderungen mit `git push` hochladen  
+Assets/MyGame/Screenshots/screenshot.png
+und in der README eingebunden sein:
 
-## Fazit
-Dieses Projekt dient als Einstieg in die Versionskontrolle und bildet die Grundlage für zukünftige, komplexere Projekte.
-
-Kleine Änderung hier passiert
-
-Änderung auf GH
+![Screenshot](Assets/MyGame/Screenshots/screenshot.png)
