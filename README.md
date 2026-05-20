@@ -1,4 +1,4 @@
-Jedes Repository braucht eine README.md im Root mit folgenden Abschnitten:
+wJedes Repository braucht eine README.md im Root mit folgenden Abschnitten:
 
 # Projekttitel
 
