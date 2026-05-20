@@ -1,4 +1,4 @@
-Jedes Repository braucht eine README.md im Root mit folgenden Abschnitten:
+wJedes Repository braucht eine README.md im Root mit folgenden Abschnitten:
 
 # Projekttitel
 
@@ -28,3 +28,5 @@ und in der README eingebunden sein:
 
 ![Screenshot](Assets/MyGame/Screenshots/screenshot.png)
 >>>>>>> a7ec093db1e39b9b1efecd90013eb5da9593d492
+
+Geändertttt
