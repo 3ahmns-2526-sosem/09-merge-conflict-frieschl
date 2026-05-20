@@ -3,6 +3,7 @@ Jedes Repository braucht eine README.md im Root mit folgenden Abschnitten:
 # Projekttitel
 
 ## Kurzbeschreibung
+Dieses Projekt wurde lokal bearbeitet
 
 ## Zielplattform
 
